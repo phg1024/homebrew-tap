@@ -1,6 +1,6 @@
 cask "cadabra" do
-  version "1.4.1"
-  sha256 "8b1ae4b2ea7803f79cc4cc6b8e470926593ef33c7e8e14b759ef56e212306936"
+  version "1.4.2"
+  sha256 "a946428e4c284345ce0283c6175fd470c5a4c12c2a6ed03155e7ce6d13868465"
 
   url "https://github.com/phg1024/Cadabra/releases/download/v#{version}/Cadabra-#{version}.dmg"
   name "Cadabra"
